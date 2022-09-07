@@ -1,4 +1,4 @@
-### Olá, eu sou o Sósthenes Oliveira Lima 👋
+### Olá, Eu sou o Sósthenes Oliveira Lima 👋
 
 
 
