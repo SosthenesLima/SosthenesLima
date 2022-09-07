@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Full stack 
-- 🌱 Estudando Java/Typescript/Angular
+- 🌱 Estudando Java/Typescript/Data Science
 - 📫 Contate-me no E-mail: sosthenes.lima@gmail.com
 - 😄 Pronouns: ele/dele
 
